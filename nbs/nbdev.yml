@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "my_first_library"
+  site-url: "https://akarim23131.github.io/my_first_library"
+  description: "This is my first test library creation repo"
+  repo-branch: main
+  repo-url: "https://github.com/akarim23131/my_first_library"
